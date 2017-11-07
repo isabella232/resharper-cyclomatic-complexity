@@ -25,7 +25,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="JetBrains.ReSharper.SDK" Version="2017.2.0" />
+    <PackageReference Include="JetBrains.ReSharper.SDK" Version="2017.3.0-eap*" />
+    <PackageReference Include="JetBrains.Platform.VisualStudio" Version="111.0.20171207.131226-eap09" />
   </ItemGroup>
 
   <ItemGroup>
